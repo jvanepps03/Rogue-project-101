@@ -1,0 +1,244 @@
+/**** Important sec to be removed ******/
+
+ /***** BASE STYLES ******/
+
+body {
+  font-family: 'Montserrat', sans-serif;
+  color: #2b2b2b;
+  background-color: white;
+
+}
+
+
+/*****  Grid *****/
+
+.full-width {
+    width:1200px;
+    margin: 0 auto;
+
+}
+
+.half-width {
+    width:600px;
+    float: left;
+
+}
+
+
+
+
+/***** Header *****/
+
+header {
+    height:130px;
+
+}
+
+header h1 {
+  font-family: 'Montserrat',sans-serif;
+  font-size: 30px;
+  margin:40px 10px 20px 0px;
+  padding: 10px 0px 10px 0px;
+  text-decoration: none;
+  text-transform: uppercase;
+
+}
+
+ nav {
+    float:right;
+
+}
+
+ nav ul li {
+    display:inline-block;
+
+}
+
+nav li a {
+    color:#babd8b;
+    display:inline-block;
+    font-family: 'Montserrat',sans-serif;
+    font-height:25px;
+    font-size:14px;
+    font-weight: bold;
+    margin:40px 0px 20px 0px;
+    padding: 10px 0px 15px 15px;
+    text-decoration: none;
+    text-transform: uppercase;
+
+}
+
+/***** Gallery ******/
+
+#gallery {
+  width: 1200px;
+  display:block;
+  border-top: solid;
+  border-color: #d3d3d3;
+  border-width: 5px;
+  border-bottom: 5px solid #d3d3d3;
+  line-height: 0px;
+  margin:auto;
+
+}
+
+
+
+/*****  About *****/
+
+#about .full-width {
+  padding: 10px;
+  height: 140px;
+
+}
+
+#about h2 {
+  font-family: 'Montserrat',sans-serif;
+  font-size: 18px;
+  letter-spacing: 0;
+  text-align: left;
+  text-transform: uppercase;
+
+}
+
+#about p {
+  font-family: 'Montserrat',sans-serif;
+  font-size: 16px;
+  line-height: 25px;
+
+}
+
+
+/*****information*****/
+
+#information .full-width {
+  border-top: solid;
+  border-color: #d3d3d3;
+  border-width: thin;
+  height:210px;
+  padding: 0px;
+  overflow: auto;
+
+
+}
+
+#information h3 {
+  font-size:15px;
+  font-weight: bold;
+  text-transform: uppercase;
+
+}
+
+#information p {
+  font-size:15px;
+  line-height: 23px;
+
+}
+
+#information ul {
+  list-style-type: none;
+  color:#babd8b;
+  padding: 0px;
+  margin: 0px;
+  line-height: 40px;
+  font-size: 15px;
+
+}
+
+
+#information #menu {
+  border-right: solid;
+  border-color: #d3d3d3;
+  border-width: thin;
+  height: 210px;
+  width: 350px;
+  float: left;
+  padding: 0px 10px 0px 0px;
+
+}
+
+#information #reviews {
+  border-right: solid;
+  border-color: #d3d3d3;
+  border-width: thin;
+  height: 210px;
+  padding: 0px 30px;
+  width: 360px;
+  float: left;
+
+}
+
+#information #locations {
+  height: 210px;
+  width: 350px;
+  float: left;
+  padding:0px 30px;
+
+}
+
+
+
+
+
+
+
+/***** Menu *****/
+
+
+
+}
+
+
+
+/***** Reviews *****/
+
+.third-width #reviews{
+  padding: 10px;
+  border-right: solid
+  border-color: #d3d3d3;
+  border-width: thin;
+
+}
+
+
+
+
+
+/****** Locations *****/
+
+
+
+
+
+
+/***** Footer ******/
+
+footer {
+    clear: both;
+    height:80px;
+
+}
+
+#content .full-width {
+    padding:5px 5px 20px 5px;
+    font-size:18px;
+    text-align:center;
+    border-top:solid;
+    border-color: #d3d3d3;
+    border-width: thin;
+
+}
+
+#content h3 {
+  font-size:18px;
+  font-weight: bold;
+  font-family: 'Montserrat',sans-serif;
+  text-transform:uppercase;
+
+}
+
+#content h3 span{
+  font-family: 'Dancing Script', cursive;
+  text-transform: lowercase;
+
+}
